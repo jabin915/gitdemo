@@ -2,7 +2,6 @@ hello world hello git
 hello world hello git
 hello world hello git
 hello world hello git
-
-version 2.0
-here was modified by hot-fix
-
+ 
+version 2.0   modified by master  by hot-fix
+here was modified by hot-fix  modified by hot-fix 
